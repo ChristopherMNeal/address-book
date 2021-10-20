@@ -1,8 +1,8 @@
 # _Form Letter_
 
-#### By _**Christopher Neal** **Kate K**_
+#### By _**Christopher Neal** & **Kate K**_
 
-#### _Webpage to send a letter to the user_
+#### _Address Book_
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_This page practices using jQuery send a form letter to the user._
+_This page practices using jQuery forms by creating an addressbook._
 
 ## Setup/Installation Requirements
 
